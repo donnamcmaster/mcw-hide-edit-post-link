@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: McWebby Hide Edit Post Links
-Plugin URI: http://www.donnamcmaster.com/
+Plugin URI: https://www.donnamcmaster.com/
 Description: Temporarily hides the edit links so that you can view the page without them. 
 Version: 00.01.00
 Author: Donna McMaster
-Author URI: http://www.donnamcmaster.com/
+Author URI: https://www.donnamcmaster.com/
 License: GNU GPU v3
 */
 
